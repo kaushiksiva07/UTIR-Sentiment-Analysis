@@ -1,7 +1,7 @@
 # UTIR-Sentiment-Analysis
 
 ### Overview
-The file implements an LSTM binary classifier for Sentiment Analysis of the IMDB data set. 25000 traning and 25000 test reviews were utilized in for the model.
+The file implements an LSTM binary classifier for Sentiment Analysis of the IMDB data set. 25000 traning and 25000 test reviews were utilized when creating the model.
 
 ### Dataset
 The data set can be dowloaded from https://ai.stanford.edu/~amaas/data/sentiment/.
