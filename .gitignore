@@ -1,4 +1,7 @@
 .ipynb_checkpoints/
 aclImdb/
+.gitignore.swp
+Test.ipynb
+aclImdb_v1.tar.gz
 
 
