@@ -1,5 +1,7 @@
 .ipynb_checkpoints/
 aclImdb/
+glove.840B.300d.zip
+glove.840B.300d
 .gitignore.swp
 Test.ipynb
 aclImdb_v1.tar.gz
